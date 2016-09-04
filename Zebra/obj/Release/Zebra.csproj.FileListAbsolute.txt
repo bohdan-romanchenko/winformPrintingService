@@ -1,0 +1,13 @@
+C:\Work\Zebra\Zebra\Zebra\bin\Release\Zebra.exe.config
+C:\Work\Zebra\Zebra\Zebra\obj\Release\Interop.Office.dll
+C:\Work\Zebra\Zebra\Zebra\obj\Release\Zebra.csproj.ResolveComReference.cache
+C:\Work\Zebra\Zebra\Zebra\bin\Release\db.mdb
+C:\Work\Zebra\Zebra\Zebra\bin\Release\Zebra.exe
+C:\Work\Zebra\Zebra\Zebra\bin\Release\Zebra.pdb
+C:\Work\Zebra\Zebra\Zebra\obj\Release\Zebra.AddProductsExcel.resources
+C:\Work\Zebra\Zebra\Zebra\obj\Release\Zebra.Form1.resources
+C:\Work\Zebra\Zebra\Zebra\obj\Release\Zebra.Properties.Resources.resources
+C:\Work\Zebra\Zebra\Zebra\obj\Release\Zebra.csproj.GenerateResource.Cache
+C:\Work\Zebra\Zebra\Zebra\obj\Release\Zebra.exe
+C:\Work\Zebra\Zebra\Zebra\obj\Release\Zebra.pdb
+C:\Work\Zebra\Zebra\Zebra\obj\Release\Zebra.csprojResolveAssemblyReference.cache
